@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic-settings
+python-dotenv
+mem0ai
+qdrant-client
+openai
+neo4j
+langchain-neo4j
